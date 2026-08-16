@@ -1,0 +1,14 @@
+# Model weights
+*.pth
+*.pt
+
+# Dataset
+dataset_split/
+Kvasir-SEG/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
